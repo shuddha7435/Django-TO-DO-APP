@@ -1,18 +1,18 @@
 # Django-TO-DO-APP
 
-# Setting up the Backend
+Setting up the Backend
 
 ```
 $ mkdir django-todo-react
 ```
 
-# Then we will navigate to the directory
+Then we will navigate to the directory
 
 ```
 cd django-todo-react
 ```
 
-# We will install Django using Pipenv then create a new project called backend
+We will install Django using Pipenv then create a new project called backend
 
 
 ```
@@ -20,7 +20,7 @@ $ pipenv install django
 $ django-admin startproject backend
 ```
 
-# Next, we will navigate into the newly created backend folder and start a new application called todo. We will also run migrations and start up the server:
+Next, we will navigate into the newly created backend folder and start a new application called todo. We will also run migrations and start up the server:
 
 ```
 $ cd backend
@@ -28,7 +28,7 @@ $ python manage.py startapp todo
 $ python manage.py migrate
 $ python manage.py runserver
 ```
-# If we check http://localhost:8000 then we will see this picture
+If we check http://localhost:8000 then we will see this picture
 
 ![Django_Install](https://user-images.githubusercontent.com/16424882/99523668-9464e800-29c1-11eb-8d96-1a2a16d45ffa.png)
 
