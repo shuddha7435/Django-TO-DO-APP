@@ -103,12 +103,12 @@ python manage.py runserver
 
 ![Admin_Panel](https://user-images.githubusercontent.com/16424882/99523712-a21a6d80-29c1-11eb-9cea-9b1571097c66.png)
 
-# Here is the screenshot from the TO-DO List App when we add an item in the list
+Here is the screenshot from the TO-DO List App when we add an item in the list
 
 ![Sample TO-DO](https://user-images.githubusercontent.com/16424882/99523732-a777b800-29c1-11eb-87e1-85097de8f3b1.png)
 
 
-# Here is the screenshot of the full TO-DO List
+Here is the screenshot of the full TO-DO List
 
 ![TO-DO-LIST](https://user-images.githubusercontent.com/16424882/99523743-ad6d9900-29c1-11eb-8ac8-a97bf040fe39.png)
 
